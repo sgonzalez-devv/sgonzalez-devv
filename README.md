@@ -49,10 +49,10 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🚀 [sentinel-uptime](https://github.com/sgonzalez-devv/sentinel-uptime) | Production-ready uptime monitoring SaaS — Terraform + ECS Fargate + RDS + GitHub Actions CI/CD | Next.js · NestJS · AWS · Terraform |
+| 🚀 [sentinel-uptime](https://github.com/sgonzalez-devv/sentinel-uptime) | Production uptime monitoring SaaS — Terraform + ECS Fargate + RDS + GitHub Actions CI/CD | Next.js · NestJS · AWS · Terraform |
+| 🧠 [cortex](https://github.com/sgonzalez-devv/cortex) | AI knowledge base — RAG pipeline with pgvector, SSE streaming, Python Lambda document processor | Next.js · NestJS · pgvector · OpenAI · AWS |
 | 🤖 [TradeSyncBot](https://github.com/sgonzalez-devv/TradeSyncBot) | Automated copy-trading bot with live signal routing | Python · AWS Lambda |
 | 🏥 [MedConnect-App](https://github.com/sgonzalez-devv/MedConnect-App) | Medical appointment & patient management system | Next.js · TypeScript · Supabase |
-| ☁️ [aws-python-automatization](https://github.com/sgonzalez-devv/aws-python-automatization) | Lambda scraper pipeline with Selenium & automated CSV export | Python · AWS Lambda · Selenium |
 
 ---
 

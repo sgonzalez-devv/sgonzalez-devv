@@ -49,10 +49,10 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🚀 [sentinel-uptime](https://github.com/sgonzalez-devv/sentinel-uptime) | Production uptime monitoring SaaS — Terraform + ECS Fargate + RDS + GitHub Actions CI/CD | Next.js · NestJS · AWS · Terraform |
-| 🧠 [cortex](https://github.com/sgonzalez-devv/cortex) | AI knowledge base — RAG pipeline with pgvector, SSE streaming, Python Lambda document processor | Next.js · NestJS · pgvector · OpenAI · AWS |
+| 🚀 [sentinel-uptime](https://github.com/sgonzalez-devv/sentinel-uptime) | Production uptime monitoring SaaS — ECS Fargate, RDS, Terraform IaC, GitHub Actions CI/CD | Next.js · NestJS · AWS · Terraform |
+| 🧠 [cortex](https://github.com/sgonzalez-devv/cortex) | AI knowledge base — RAG pipeline, pgvector, SSE streaming, Python Lambda document processor | NestJS · pgvector · OpenAI · AWS Lambda |
+| ☸️ [eks-gitops-platform](https://github.com/sgonzalez-devv/eks-gitops-platform) | EKS GitOps platform — ArgoCD App-of-Apps, Helm charts, Prometheus alerts, Network Policies | Kubernetes · ArgoCD · Helm · Terraform · AWS |
 | 🤖 [TradeSyncBot](https://github.com/sgonzalez-devv/TradeSyncBot) | Automated copy-trading bot with live signal routing | Python · AWS Lambda |
-| 🏥 [MedConnect-App](https://github.com/sgonzalez-devv/MedConnect-App) | Medical appointment & patient management system | Next.js · TypeScript · Supabase |
 
 ---
 
